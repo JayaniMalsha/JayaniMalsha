@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🎓 Current Status **Third-year Computer Science student at Informatic Institute of Technology (University of Westminster) pursuing a BSc (Hons) in Computer Science.**
+- 🎓 Current Status: **Third-year Computer Science student at Informatic Institute of Technology (University of Westminster) pursuing a BSc (Hons) in Computer Science.**
 
-- 🌱 I’m currently learning **third-year Computer Science student at Informatic Institute of Technology (University of Westminster) pursuing a BSc (Hons) in Computer Science.**
+- 🔧 Current Work: **Machine Learning Developer at AryaLabs (Pvt) Ltd.**
+  
+- 💻 Passions: **Programming, web development, and machine learning.**
 
 - 👯 I’m looking to collaborate on **open-source machine learning projects**
 
@@ -20,6 +22,8 @@
 - 📫 How to reach me **Email: jayanikatugampala4@gmail.com , LinkedIn: Jayani Malsha**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JnSPSEEqO1hgxKsuc2_M8cRefo-YgDmS/view](https://drive.google.com/file/d/1JnSPSEEqO1hgxKsuc2_M8cRefo-YgDmS/view)
+  
+- 🏆 Goal: **To continually develop my IT skills and contribute meaningfully to the tech industry.**
 
 - ⚡ Fun fact **I think I am funny 😄**
 
