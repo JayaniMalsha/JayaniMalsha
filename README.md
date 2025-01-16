@@ -34,7 +34,7 @@
 
 <h3 align="left" style="color: #ffa500;">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/jayani-malsha" target="blank">
+  <a href="https://www.linkedin.com/in/jayani-malsha-6a6822266/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayani malsha" height="30" width="40" />
   </a>
 </p>
