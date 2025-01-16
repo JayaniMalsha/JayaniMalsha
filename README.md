@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayanimalsha&show_icons=true&locale=en" alt="jayanimalsha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayanimalsha&" alt="jayanimalsha" /></p>
+
